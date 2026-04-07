@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSPConfig>
+  <AppName>SignagePlayer</AppName>
+  <AppVersion>1.0.0</AppVersion>
+  <WidgetURL>https://raw.githubusercontent.com/code5858/signage/main/SignagePlayer.wgt</WidgetURL>
+</SSPConfig>
